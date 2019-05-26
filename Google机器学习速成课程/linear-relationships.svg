@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21in"
+   height="8in"
+   viewBox="0 0 21 8"
+   version="1.1"
+   id="svg937"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   sodipodi:docname="linear-relationships.svg">
+  <defs
+     id="defs931">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2969"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2967" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12601"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path12599"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12465"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path12463"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient1488"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1486" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1808-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1806-8" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1495-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1808-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1806-87" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1808-5-41"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1806-8-9" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1495-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1808-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1806-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1808-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1806-8-0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0"
+         style="fill:#e9872e;fill-opacity:0.99572646;fill-rule:evenodd;stroke:#e9872e;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.99572646"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-4"
+         style="fill:#e9872e;fill-opacity:0.99572646;fill-rule:evenodd;stroke:#e9872e;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.99572646"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3-0"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3-2"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3-8"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3-3"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3-7"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3-6"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12601-5-5-3-0-29"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12599-4-0-6-3-02"
+         style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70634921"
+     inkscape:cx="1320.7661"
+     inkscape:cy="321.40449"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:showpageshadow="false"
+     inkscape:snap-center="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1139"
+     inkscape:window-x="0"
+     inkscape:window-y="621"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1482"
+       units="in"
+       spacingx="0.0625"
+       spacingy="0.0625"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata934">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-93.799983)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.41666666px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.6228418"
+       y="101.54999"
+       id="text9293-8"><tspan
+         sodipodi:role="line"
+         id="tspan1430"
+         x="8.6228418"
+         y="101.54999">动词时态</tspan></text>
+    <g
+       id="g5206-9"
+       transform="translate(4.7070992,0.750001)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1484-8"
+         d="m 4.0000015,97.549984 -7e-7,-3.250002"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02083333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1798-8"
+         d="m 4.0000015,97.549984 3.249999,0.249999"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02083333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1808-7)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1798-2-5"
+         d="m 4.0000003,97.549983 -1.7500002,0.75"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02083333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1808-5-41)" />
+    </g>
+    <circle
+       style="fill:#fffb00;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9"
+       cx="9.4571009"
+       cy="98.79998"
+       r="0.12500004" />
+    <circle
+       style="fill:#ff2600;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9"
+       cx="10.457101"
+       cy="97.79998"
+       r="0.12500004" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="8.849637"
+       y="99.250664"
+       id="text11641-8-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan1492">正在游泳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="10.552532"
+       y="97.500801"
+       id="text11641-8-0-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan1494">已游过</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#e9872e;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:0.99572646;marker-end:url(#marker12601-5-5)"
+       d="m 9.582101,98.674984 0.75,-0.75"
+       id="path9973-1-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#fffb00;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-8"
+       cx="7.8946276"
+       cy="97.32093"
+       r="0.12500004" />
+    <circle
+       style="fill:#ff2600;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-84"
+       cx="9.5821009"
+       cy="96.42498"
+       r="0.12500004" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="7.2871628"
+       y="97.771614"
+       id="text11641-8-0-6-58"><tspan
+         sodipodi:role="line"
+         id="tspan1488">正在步行</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="9.5936832"
+       y="96.091782"
+       id="text11641-8-0-6-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan1490">已走过</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#e9872e;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:0.99572646;marker-end:url(#marker12601-5-5-9)"
+       d="m 8.0821003,97.237484 1.3125007,-0.6875"
+       id="path9973-1-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.41666666px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.313139"
+       y="101.54999"
+       id="text9293-7"><tspan
+         sodipodi:role="line"
+         id="tspan1496"
+         x="16.313139"
+         y="101.54999">国家-首都</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02083333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m 17.176263,98.299984 -10e-7,-3.250001"
+       id="path1484-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02083333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1808-1)"
+       d="m 17.176263,98.299984 3.249999,0.249999"
+       id="path1798-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02083333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1808-5-2)"
+       d="m 17.176262,98.299983 -1.75,0.75"
+       id="path1798-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0"
+       cx="16.676262"
+       cy="95.79998"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8"
+       cx="15.926262"
+       cy="96.48748"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3)"
+       d="m 16.551262,95.92499 -0.5,0.4375"
+       id="path9973-1-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="15.989765"
+       y="95.591042"
+       id="text11641-8-0-6-5-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan1659">加拿大</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="15.678758"
+       y="96.9011"
+       id="text11641-8-0-6-5-6-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan1661">渥太华</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9"
+       cx="14.926262"
+       cy="96.54998"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1"
+       cx="14.176262"
+       cy="97.23748"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0)"
+       d="m 14.801262,96.674999 -0.5,0.4375"
+       id="path9973-1-8-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="14.17713"
+       y="96.314117"
+       id="text11641-8-0-6-5-6-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan1667">土耳其</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="13.621683"
+       y="97.653542"
+       id="text11641-8-0-6-5-6-5-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan1669">安卡拉</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9-5"
+       cx="16.051262"
+       cy="97.67498"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1-6"
+       cx="15.301262"
+       cy="98.36248"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0-8)"
+       d="m 15.926262,97.800005 -0.5,0.4375"
+       id="path9973-1-8-7-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="16.051994"
+       y="97.466042"
+       id="text11641-8-0-6-5-6-5-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan1663">俄罗斯</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="14.54406"
+       y="98.774269"
+       id="text11641-8-0-6-5-6-5-3-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan1665">莫斯科</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9-6"
+       cx="18.426262"
+       cy="95.79998"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1-7"
+       cx="17.676262"
+       cy="96.48748"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0-6)"
+       d="m 18.301262,95.924996 -0.5,0.4375"
+       id="path9973-1-8-7-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="18.125237"
+       y="95.502365"
+       id="text11641-8-0-6-5-6-5-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan1679">西班牙</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="17.3405"
+       y="96.899269"
+       id="text11641-8-0-6-5-6-5-3-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan1681">马德里</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9-2"
+       cx="20.051262"
+       cy="95.36248"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1-9"
+       cx="19.301262"
+       cy="96.04998"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0-2)"
+       d="m 19.926262,95.487499 -0.5,0.4375"
+       id="path9973-1-8-7-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="19.750237"
+       y="95.064865"
+       id="text11641-8-0-6-5-6-5-6-60"><tspan
+         sodipodi:role="line"
+         id="tspan1675">意大利</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="18.778"
+       y="96.461769"
+       id="text11641-8-0-6-5-6-5-3-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan1677">罗马</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9-21"
+       cx="20.113762"
+       cy="97.17498"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1-5"
+       cx="19.363762"
+       cy="97.86248"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0-1)"
+       d="m 19.988762,97.300002 -0.5,0.4375"
+       id="path9973-1-8-7-9-99"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777779px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="19.986187"
+       y="96.894012"
+       id="text11641-8-0-6-5-6-5-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan1671"
+         x="19.986187"
+         y="96.894012">德国</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="18.738478"
+       y="98.279297"
+       id="text11641-8-0-6-5-6-5-3-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan1673">柏林</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9-58"
+       cx="18.676262"
+       cy="99.04998"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1-70"
+       cx="17.926262"
+       cy="99.73748"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0-0)"
+       d="m 18.551262,99.175002 -0.5,0.4375"
+       id="path9973-1-8-7-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="18.388393"
+       y="98.809845"
+       id="text11641-8-0-6-5-6-5-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan1655">日本</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="17.452045"
+       y="100.12662"
+       id="text11641-8-0-6-5-6-5-3-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan1657">东京</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9-1"
+       cx="17.176262"
+       cy="99.29998"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1-0"
+       cx="16.426262"
+       cy="99.98748"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0-9)"
+       d="m 17.051262,99.424994 -0.5,0.437497"
+       id="path9973-1-8-7-9-42"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="16.656622"
+       y="99.028542"
+       id="text11641-8-0-6-5-6-5-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan1651">越南</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="15.946213"
+       y="100.46604"
+       id="text11641-8-0-6-5-6-5-3-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan1653">河内</tspan></text>
+    <circle
+       style="fill:#7f6000;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-0-9-8"
+       cx="19.676262"
+       cy="99.54998"
+       r="0.12500004" />
+    <circle
+       style="fill:#6aa84f;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-9-9-8-1-3"
+       cx="18.926262"
+       cy="100.23748"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5-5-3-0-29)"
+       d="m 19.551262,99.675001 -0.5,0.437489"
+       id="path9973-1-8-7-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="19.760817"
+       y="99.341042"
+       id="text11641-8-0-6-5-6-5-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan1647">中国</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="18.405537"
+       y="100.62566"
+       id="text11641-8-0-6-5-6-5-3-3-91"><tspan
+         sodipodi:role="line"
+         id="tspan1649">北京</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.41666666px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.2814243"
+       y="101.54999"
+       id="text9293"><tspan
+         sodipodi:role="line"
+         id="tspan1366"
+         x="2.2814243"
+         y="101.54999">男-女</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.021;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12465)"
+       d="m 2,98.299983 3.249999,0.249999"
+       id="path1798"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.021;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2969)"
+       d="m 1.9999988,98.299982 -1.7500002,0.75"
+       id="path1798-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#0433ff;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869"
+       cx="1.3749989"
+       cy="97.17498"
+       r="0.12500004" />
+    <circle
+       style="fill:#5b3881;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4"
+       cx="2.8749993"
+       cy="97.67498"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#5b3881;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601)"
+       d="m 1.562499,97.237482 1.1250001,0.375"
+       id="path9973"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="0.69641036"
+       y="97.618095"
+       id="text11641"><tspan
+         sodipodi:role="line"
+         id="tspan1422">国王</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="2.9812548"
+       y="98.10347"
+       id="text11641-8"><tspan
+         sodipodi:role="line"
+         id="tspan1424">女王</tspan></text>
+    <circle
+       style="fill:#0433ff;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-2"
+       cx="2.7499993"
+       cy="96.29998"
+       r="0.12500004" />
+    <circle
+       style="fill:#5b3881;fill-opacity:1;stroke:#000000;stroke-width:0.02083333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9869-4-1"
+       cx="4.2499909"
+       cy="96.79998"
+       r="0.12500004" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#5b3881;stroke-width:0.02604167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.078125, 0.078125;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12601-5)"
+       d="m 2.9374976,96.362471 1.125,0.375"
+       id="path9973-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="2.7296543"
+       y="96.008385"
+       id="text11641-0"><tspan
+         sodipodi:role="line"
+         id="tspan1426">男人</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777778px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="4.2522516"
+       y="96.539604"
+       id="text11641-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan1428">女人</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1808-5)"
+       d="m 1.9999999,98.299982 c -2e-7,-1.0625 -7e-7,-1.214157 -7e-7,-3.250001"
+       id="path2637"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

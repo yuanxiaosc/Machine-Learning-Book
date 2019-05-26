@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg87"
+   stroke-miterlimit="10"
+   stroke-linecap="square"
+   stroke="none"
+   fill="none"
+   viewBox="0.0 0.0 960.0 540.0"
+   version="1.1">
+  <desc>与图 2 类似的工作流程，不同之处在于该工作流程使用验证集而不是测试集来评估模型。然后，在训练集和验证集大致达成一致后，使用测试集确认模型效果。</desc>
+  <metadata
+     id="metadata93">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs91" />
+  <clipPath
+     id="g3265f266ac_0_158.0">
+    <path
+       id="path2"
+       clip-rule="nonzero"
+       d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z" />
+  </clipPath>
+  <g
+     id="g85"
+     clip-path="url(#g3265f266ac_0_158.0)">
+    <path
+       id="path5"
+       fill-rule="evenodd"
+       d="m0 0l960.0 0l0 540.0l-960.0 0z"
+       fill="#ffffff" />
+    <path
+       id="path7"
+       fill-rule="evenodd"
+       d="m5.5091863 4.5905514l945.0079 0l0 274.83466l-945.0079 0z"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path9"
+       fill-rule="evenodd"
+       d="m5.5091863 4.5905514l945.0079 0l0 274.83466l-945.0079 0z"
+       stroke-dasharray="8.0,6.0"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2.0"
+       stroke="#999999" />
+    <path
+       id="path11"
+       fill-rule="evenodd"
+       d="m47.065617 15.099737l378.07874 0l0 113.54331l-378.07874 0z"
+       fill="#4285f4" />
+    <path
+       id="path15"
+       fill-rule="evenodd"
+       d="m469.2152 15.107612l437.88977 0l0 113.54331l-437.88977 0z"
+       fill="#4fc3f7" />
+    <path
+       id="path19"
+       fill-rule="evenodd"
+       d="m425.14435 71.87139l44.06299 0"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path21"
+       fill-rule="evenodd"
+       d="m425.14435 71.87139l33.78174 0"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="3.0"
+       stroke="#424242" />
+    <path
+       id="path23"
+       fill-rule="evenodd"
+       d="m458.9261 71.87139l-3.3737488 3.3737488l9.269318 -3.3737488l-9.269318 -3.3737488z"
+       stroke-linecap="butt"
+       stroke-width="3.0"
+       stroke="#424242"
+       fill="#424242" />
+    <path
+       id="path25"
+       fill-rule="evenodd"
+       d="m907.105 71.879265l24.999634 0l0 146.07874l-274.32245 0"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path27"
+       fill-rule="evenodd"
+       d="m907.105 71.879265l24.999573 0l0 146.07874l-264.04114 0"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="3.0"
+       stroke="#424242" />
+    <path
+       id="path29"
+       fill-rule="evenodd"
+       d="m668.0634 217.95801l3.3737183 -3.3737488l-9.269287 3.3737488l9.269287 3.3737488z"
+       stroke-linecap="butt"
+       stroke-width="3.0"
+       stroke="#424242"
+       fill="#424242" />
+    <path
+       id="path31"
+       fill-rule="evenodd"
+       d="m259.66928 167.13387l398.11026 0l0 101.6693l-398.11026 0z"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       style="fill:#4fc3f7;fill-rule:nonzero;stroke-width:0.70004576"
+       id="path35"
+       d="m 421.24222,178.51045 h 103.69452 v 38.39999 H 421.24222 Z" />
+    <path
+       id="path41"
+       fill-rule="evenodd"
+       d="m47.065617 71.87139l-24.999449 0l0 146.11023l237.59787 0"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path43"
+       fill-rule="evenodd"
+       d="m36.784355 71.87139l-14.718187 0l0 146.11023l237.59787 0"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="3.0"
+       stroke="#424242" />
+    <path
+       id="path45"
+       fill-rule="evenodd"
+       d="m36.78436 71.87139l-3.3737526 3.3737488l9.269302 -3.3737488l-9.269302 -3.3737488z"
+       stroke-linecap="butt"
+       stroke-width="3.0"
+       stroke="#424242"
+       fill="#424242" />
+    <path
+       id="path47"
+       fill-rule="evenodd"
+       d="m31.68504 346.59198l402.23624 0l0 101.66928l-402.23624 0z"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path49"
+       fill-rule="evenodd"
+       d="m31.68504 346.59198l402.23624 0l0 101.66928l-402.23624 0z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2.0"
+       stroke="#000000" />
+    <path
+       id="path51"
+       fill-rule="evenodd"
+       d="m31.065617 347.1286l391.1496 0l0 54.015747l-391.1496 0z"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       style="fill:#4fc3f7;fill-rule:nonzero;stroke-width:0.66000366"
+       id="path55"
+       d="m 198.6067,355.36867 h 92.17127 v 38.39999 H 198.6067 Z" />
+    <path
+       id="path61"
+       fill-rule="evenodd"
+       d="m278.95398 279.41208l-0.4409485 60.59842"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path63"
+       fill-rule="evenodd"
+       d="m278.95398 279.41208l-0.3661499 50.317444"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="3.0"
+       stroke="#424242" />
+    <path
+       id="path65"
+       fill-rule="evenodd"
+       d="m278.58786 329.72952l-3.349121 -3.3982239l3.3062134 9.29361l3.441101 -9.244507z"
+       stroke-linecap="butt"
+       stroke-width="3.0"
+       stroke="#424242"
+       fill="#424242" />
+    <path
+       id="path67"
+       fill-rule="evenodd"
+       d="m533.2746 346.5944l318.32977 0l0 101.66928l-318.32977 0z"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path69"
+       fill-rule="evenodd"
+       d="m533.2746 346.5944l318.32977 0l0 101.66928l-318.32977 0z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2.0"
+       stroke="#000000" />
+    <path
+       id="path71"
+       fill-rule="evenodd"
+       d="m532.78436 347.131l309.55585 0l0 54.015747l-309.55585 0z"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       style="fill:#f4b400;fill-rule:nonzero;stroke-width:0.88329595"
+       id="path75"
+       d="m 675.12458,356.41863 h 92.96711 v 38.4 h -92.96711 z" />
+    <path
+       id="path79"
+       fill-rule="evenodd"
+       d="m439.76642 397.42783l89.22833 0"
+       fill-opacity="0.0"
+       fill="#000000" />
+    <path
+       id="path81"
+       fill-rule="evenodd"
+       d="m439.76642 397.42783l78.94708 0"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="3.0"
+       stroke="#424242" />
+    <path
+       id="path83"
+       fill-rule="evenodd"
+       d="m518.7135 397.42783l-3.3737793 3.3737488l9.269348 -3.3737488l-9.269348 -3.3737488z"
+       stroke-linecap="butt"
+       stroke-width="3.0"
+       stroke="#424242"
+       fill="#424242" />
+    <text
+       id="text3786"
+       y="82.315033"
+       x="103.70899"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:29.33333397px"
+         y="82.315033"
+         x="103.70899"
+         id="tspan3784">使用训练集训练模型</tspan></text>
+    <text
+       id="text3790"
+       y="82.329353"
+       x="554.16223"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:29.33333397px"
+         y="82.329353"
+         x="554.16223"
+         id="tspan3788">使用验证集评估模型</tspan></text>
+    <text
+       id="text3794"
+       y="210.01683"
+       x="456.70139"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         id="tspan3796"
+         y="210.01683"
+         x="456.70139">根据在验证集上获</tspan><tspan
+         id="tspan58"
+         style="font-size:32px;text-align:center;text-anchor:middle"
+         y="246.6835"
+         x="456.70139">得的效果调整模型</tspan></text>
+    <text
+       id="text3800"
+       y="229.92058"
+       x="426.35919"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:29.33333397px"
+         y="253.51433"
+         x="426.35919"
+         id="tspan3798" /></text>
+    <text
+       id="text3804"
+       y="387.05545"
+       x="231.43651"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:29.33333397px;text-align:center;text-anchor:middle"
+         id="tspan3806"
+         y="387.05545"
+         x="231.43651">选择在验证集上获</tspan><tspan
+         id="tspan62"
+         style="font-size:29.33333397px;text-align:center;text-anchor:middle"
+         y="423.72211"
+         x="231.43651">得最佳效果的模型</tspan></text>
+    <text
+       id="text3814"
+       y="387.05545"
+       x="692.16028"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:29.33333397px;text-align:center;text-anchor:middle"
+         id="tspan3816"
+         y="387.05545"
+         x="692.16028">使用测试集</tspan><tspan
+         id="tspan68"
+         style="font-weight:bold;font-size:29.33333397px;text-align:center;text-anchor:middle"
+         y="423.72211"
+         x="692.16028">确认模型的效果</tspan></text>
+  </g>
+</svg>

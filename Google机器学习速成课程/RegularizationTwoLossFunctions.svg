@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic"
+	 id="svg8" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 653 282.9"
+	 xml:space="preserve">
+<style type="text/css">
+	.zhrtlf-st0{fill:none;stroke:#1155CC;stroke-width:1.0583;stroke-linejoin:round;stroke-miterlimit:14.3356;}
+	.zhrtlf-st1{fill:none;stroke:#CC0000;stroke-width:1.0583;stroke-linejoin:round;stroke-miterlimit:14.3356;}
+	.zhrtlf-st2{fill:none;stroke:#595959;stroke-width:0.7937;stroke-linejoin:round;stroke-miterlimit:14.3356;}
+	.zhrtlf-st3{fill:#595959;stroke:#595959;stroke-width:0.7937;stroke-miterlimit:11.4737;}
+	.zhrtlf-st4{fill:none;stroke:#000000;stroke-width:0.7937;stroke-linejoin:round;stroke-miterlimit:14.3356;}
+	.zhrtlf-st5{stroke:#000000;stroke-width:0.7937;stroke-miterlimit:11.4737;}
+	.zhrtlf-st6{font-family:'AdobeHeitiStd-Regular-GBpc-EUC-H';}
+	.zhrtlf-st7{font-size:14px;}
+	.zhrtlf-st8{fill:#1155CC;}
+	.zhrtlf-st9{fill:#CC0000;}
+</style>
+<desc>训练集的损失函数逐渐下降。相比之下，验证集的损失函数先下降，然后开始上升。</desc>
+<g id="layer1" transform="translate(7.5592705,-59.699194)">
+	<path id="path63" class="zhrtlf-st0" d="M73.1,65.4c10,4.8,40.7,17.9,59.8,28.8c19.2,10.9,40.5,24.4,55.1,36.8
+		c14.6,12.4,20.6,22.4,32.3,37.8c11.7,15.4,27.2,41.8,38,54.7c10.8,12.9,15.2,15.6,26.6,22.9c11.4,7.3,26.4,14.4,41.8,20.9
+		s31.2,13.1,50.3,17.9c19.2,4.8,41.9,8.3,64.6,10.9c22.6,2.7,41.1,4.3,71.2,5c30.1,0.7,91-0.8,109.2-1"/>
+	<path id="path73" class="zhrtlf-st1" d="M73.1,61.1c15.3,7,69,30.2,91.9,42.1s30.8,19,45.5,29.7c14.7,10.7,27.3,24.3,42.6,34.5
+		s32,18.8,49.3,26.8c17.2,8,33.3,15,54,21.1c20.7,6.1,51.9,12.6,70.1,15.3c18.2,2.7,25.1,2.1,38.8,1c13.7-1.1,28.4-4.3,43.6-7.7
+		c15.2-3.4,32.7-8.1,47.4-12.4c14.7-4.3,31.9-10.2,40.7-13.4c8.8-3.2,10.3-4.8,12.3-5.7"/>
+	<path id="path123" class="zhrtlf-st2" d="M68,309.8h559.7"/>
+	<path id="path125" class="zhrtlf-st3" d="M627.7,313.5l10.2-3.7l-10.2-3.7V313.5z"/>
+	<path id="path155" class="zhrtlf-st4" d="M68.6,310V74.1"/>
+	<path id="path157" class="zhrtlf-st5" d="M72.3,74.1l-3.7-10.2l-3.7,10.2H72.3z"/>
+</g>
+<text transform="matrix(1 0 0 1 37.8456 136.4084)" class="zhrtlf-st6 zhrtlf-st7">损失</text>
+<text transform="matrix(1 0 0 1 211.855 169.7023)" class="zhrtlf-st8 zhrtlf-st6 zhrtlf-st7">训练集</text>
+<text transform="matrix(1 0 0 1 423.2739 145.6877)" class="zhrtlf-st9 zhrtlf-st6 zhrtlf-st7">测试集</text>
+<text transform="matrix(1 0 0 1 327.3708 273.0282)" class="zhrtlf-st6 zhrtlf-st7">训练迭代</text>
+</svg>

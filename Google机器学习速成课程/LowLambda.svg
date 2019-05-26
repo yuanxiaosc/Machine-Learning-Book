@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic"
+	 id="svg3822" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="LowLambda-zh-CN.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 504 382"
+	 xml:space="preserve">
+<style type="text/css">
+	.zhll-st0{font-family:'PingFangTC-Regular-B5pc-H';}
+	.zhll-st1{font-size:18.6667px;}
+</style>
+<desc>模型权重的平均值为 0 且权重分布方式介于均匀分布和正态分布之间的直方图。</desc>
+<image style="overflow:visible;" width="504" height="368" id="image3830" xlink:href="data:image/png;base64,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
+AIE3atO2WEYDAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 0 14)">
+</image>
+<g id="flowRoot3848">
+</g>
+<g id="flowRoot3856">
+</g>
+<g id="flowRoot3872">
+</g>
+<g id="flowRoot3882">
+</g>
+<g id="flowRoot3890">
+</g>
+<g id="flowRoot3898">
+</g>
+<g id="flowRoot3922">
+</g>
+<text transform="matrix(1 0 0 1 212.6271 26.4407)" class="zhll-st0 zhll-st1">模型权重分布</text>
+<text transform="matrix(1 0 0 1 252.0001 369.2203)" class="zhll-st0 zhll-st1">权重值</text>
+<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 28.3019 232.0869)" class="zhll-st0 zhll-st1">权重频率</text>
+</svg>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="1050"
+   height="450"
+   viewBox="174 127 1050 450"
+   xml:space="preserve"><desc
+     id="desc2">通过独热编码映射字符串值。</desc><metadata
+     id="metadata93"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs91" /><style
+     type="text/css"
+     id="style3">
+	.ohe-st0{fill:#F4FF5F;}
+	.ohe-st1{fill:#FFF2CC;stroke:#424242;stroke-miterlimit:10;}
+	.ohe-st2{stroke:#424242;stroke-miterlimit:10;}
+	.ohe-st3{fill:#bebebe;}
+	.ohe-st4{font-family:'RobotoMono-Regular';}
+	.ohe-st5{font-size:21px;}
+	.ohe-st6{font-family:'Roboto-Regular';}
+	.ohe-st7{font-size:18px;}
+	.ohe-st8{fill:#d9ead3;stroke:#424242;stroke-miterlimit:10;}
+	.ohe-st9{fill:#28C3FF;stroke:#28C3FF;stroke-miterlimit:10;}
+	.ohe-st10{fill:none;stroke:#424242;stroke-width:2;stroke-miterlimit:10;}
+	.ohe-st11{fill:#424242;}
+</style><g
+     id="g27"
+     transform="matrix(2.2353645,0,0,1.5044679,-404.40028,-37.68972)"><path
+       class="ohe-st5"
+       d="m 454.4,240 h 69.4 v -15.6 l 28.1,31.2 -28.1,31.2 v -15.6 h -69.4 z"
+       id="path29"
+       style="font-size:21px;font-family:Roboto-Regular;fill:#d9ead3;stroke:#424242;stroke-miterlimit:10" /></g><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="652.56183"
+     y="352.42966"
+     id="text842"><tspan
+       id="tspan840"
+       x="652.56183"
+       y="352.42966"
+       style="font-size:18.66666603px">特征工程</tspan></text>
+<rect
+     x="214"
+     y="370.5"
+     class="ohe-st0"
+     width="356.70001"
+     height="26.9"
+     id="rect5"
+     style="fill:#f4ff5f" /><g
+     id="g15"
+     transform="matrix(1.1480216,0,0,1,-19.337283,22)"><path
+       class="ohe-st1"
+       d="m 423.9,263.9 v 0 c 0,6.6 8.4,11.9 18.7,11.9 h 22.5 l 24.9,65.7 36.9,-65.7 h 125.5 c 5,0 9.7,-1.3 13.2,-3.5 3.5,-2.2 5.5,-5.3 5.5,-8.4 v 0 0 -17.9 -29.7 c 0,-6.6 -8.4,-11.9 -18.7,-11.9 H 526.9 465.1 v 0 h -22.5 c -10.3,0 -18.7,5.3 -18.7,11.9 V 246 Z"
+       id="path13"
+       style="fill:#fff2cc;stroke:#424242;stroke-miterlimit:10" /></g><g
+     id="g11"
+     transform="matrix(1.1480216,0,0,1,-19.337283,22)"><path
+       class="ohe-st2"
+       d="m 423.9,263.9 v 0 c 0,6.6 8.4,11.9 18.7,11.9 h 22.5 l 24.9,65.7 36.9,-65.7 h 125.5 c 5,0 9.7,-1.3 13.2,-3.5 3.5,-2.2 5.5,-5.3 5.5,-8.4 v 0 0 -17.9 -29.7 c 0,-6.6 -8.4,-11.9 -18.7,-11.9 H 526.9 465.1 v 0 h -22.5 c -10.3,0 -18.7,5.3 -18.7,11.9 V 246 Z"
+       id="path17"
+       style="stroke:#424242;stroke-miterlimit:10" /></g><g
+     id="g22"
+     transform="matrix(1.1480216,0,0,1,-19.337283,22)"><path
+       class="ohe-st1"
+       d="m 423.9,263.9 v 0 c 0,6.6 8.4,11.9 18.7,11.9 h 22.5 l 24.9,65.7 36.9,-65.7 h 125.5 c 5,0 9.7,-1.3 13.2,-3.5 3.5,-2.2 5.5,-5.3 5.5,-8.4 v 0 0 -17.9 -29.7 c 0,-6.6 -8.4,-11.9 -18.7,-11.9 H 526.9 465.1 v 0 h -22.5 c -10.3,0 -18.7,5.3 -18.7,11.9 V 246 Z"
+       id="path20"
+       style="fill:#fff2cc;stroke:#424242;stroke-miterlimit:10" /></g><text
+     id="text19"
+     x="204.43021"
+     y="289.38199"
+     style="line-height:0%"><tspan
+       x="204.43021"
+       y="289.38199"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan21"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">0 : {</tspan><tspan
+       x="204.43021"
+       y="314.582"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan23"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">  house_info : {</tspan><tspan
+       x="204.43021"
+       y="339.78201"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan25"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">    num_rooms: 6</tspan><tspan
+       x="204.43021"
+       y="364.98199"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan27"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">    num_bedrooms: 3</tspan><tspan
+       x="204.43021"
+       y="390.18201"
+       class="ohe-st4 ohe-st5"
+       id="tspan29"
+       style="font-size:21px;font-family:RobotoMono-Regular">    street_name: &quot;Shorebird Way&quot;</tspan><tspan
+       x="204.43021"
+       y="415.38199"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan31"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">    num_basement_rooms: -1</tspan><tspan
+       x="204.43021"
+       y="440.582"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan33"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">    ...</tspan><tspan
+       x="204.43021"
+       y="465.78198"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan35"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">  }</tspan><tspan
+       x="204.43021"
+       y="490.98199"
+       class="ohe-st3 ohe-st4 ohe-st5"
+       id="tspan37"
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe">}</tspan></text>
+<rect
+     x="848"
+     y="267"
+     class="ohe-st9"
+     width="300"
+     height="26.9"
+     id="rect53"
+     style="fill:#feff5f;fill-opacity:1;stroke:none;stroke-miterlimit:10" /><text
+     id="text55"
+     style="line-height:0%"
+     x="846.31299"
+     y="261.64471"><tspan
+       x="846.31299"
+       y="261.64471"
+       class="ohe-st4 ohe-st5"
+       id="tspan57"
+       style="font-size:21px;font-family:RobotoMono-Regular">street_name</tspan><tspan
+       style="font-family:sans-serif; font-size:21px;"
+       id="tspan32"> 特征 = </tspan><tspan
+       x="846.31299"
+       y="286.8447"
+       class="ohe-st4 ohe-st5"
+       id="tspan59"
+       style="font-size:21px;font-family:RobotoMono-Regular">  [0, 0, ..., 0, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+   id="tspan887">1, 0, ...,</tspan> 0]</tspan></text>
+<g
+     id="g61"
+     transform="translate(130,22)"><g
+       id="g63"><line
+         style="fill:none;stroke:#424242;stroke-width:2;stroke-miterlimit:10"
+         id="line65"
+         y2="315"
+         x2="1052.6"
+         y1="315"
+         x1="735.40002"
+         class="ohe-st10" /><g
+         id="g67"><polygon
+           style="fill:#424242"
+           id="polygon69"
+           points="738.3,325 721,315 738.3,305 "
+           class="ohe-st11" /></g><g
+         id="g71"><polygon
+           style="fill:#424242"
+           id="polygon73"
+           points="1049.7,325 1067,315 1049.7,305 "
+           class="ohe-st11" /></g></g></g><text
+     style="font-size:17.29874039px;line-height:0%;font-family:Roboto-Regular;stroke-width:0.96104109"
+     id="text75"
+     class="ohe-st6 ohe-st7"
+     transform="scale(0.96104112,1.0405382)"
+     x="966.05957"
+     y="349.67886">V: 唯一街道名称的数量</text>
+<g
+     id="g77"
+     transform="translate(130,22)"><path
+       class="ohe-st1"
+       d="m 774.7,456.1 v 0 c 0,-6.7 -8.4,-12.2 -18.7,-12.2 l -38.1,0.3 19.4,-185.7 -37.4,184.7 -153.6,0.7 c -5,0 -9.7,1.3 -13.2,3.6 -3.5,2.3 -5.5,5.4 -5.5,8.6 v 0 0 18.3 30.5 c 0,6.7 8.4,12.2 18.7,12.2 h 125.5 61.8 v 0 h 22.5 c 10.3,0 18.7,-5.5 18.7,-12.2 v -30.5 -18.3 z"
+       id="path79"
+       style="fill:#fff2cc;stroke:#424242;stroke-miterlimit:10" /></g><text
+     transform="scale(0.96104112,1.0405382)"
+     id="text81"
+     x="695.3717"
+     y="468.02716"
+     style="font-size:11.53249359px;line-height:0%"><tspan
+       x="695.3717"
+       y="468.02716"
+       class="ohe-st6 ohe-st7"
+       id="tspan83"
+       style="font-weight:bold;font-size:17.29874039px;font-family:Roboto-Regular">独热编码</tspan></text>
+<g
+     id="g890"
+     transform="translate(157.03704,136.2963)"><rect
+       style="fill:#c4eaf9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858"
+       width="221.59286"
+       height="55.925816"
+       x="48.539391"
+       y="9.9798899"
+       ry="15.828061" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.268265"
+       y="50.752747"
+       id="text856"><tspan
+         id="tspan854"
+         x="73.268265"
+         y="50.752747">原始数据</tspan></text>
+</g><rect
+     style="fill:#c4eaf9;fill-opacity:1;stroke:#000000;stroke-width:0.9598425;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect892"
+     width="203.66046"
+     height="56.061066"
+     x="877.63672"
+     y="146.20856"
+     ry="15.86634" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="935.68372"
+     y="187.04904"
+     id="text896"><tspan
+       id="tspan894"
+       x="935.68372"
+       y="187.04904">特征</tspan></text>
+<text
+     transform="scale(0.96104112,1.0405382)"
+     id="text39"
+     x="494.4249"
+     y="254.83545"
+     style="font-size:18.66666603px;line-height:0%">可以使用独热编码处理字符串特征</text>
+<text
+     style="font-size:11.53249359px;line-height:0%"
+     y="487.24805"
+     x="695.3717"
+     id="text876"
+     transform="scale(0.96104112,1.0405382)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.29874039px;font-family:Roboto-Regular;-inkscape-font-specification:Roboto-Regular"
+       id="tspan874"
+       class="ohe-st6 ohe-st7"
+       y="487.24805"
+       x="695.3717">其中 1 表示“<tspan style="font-family: monospace">Shorebird Way</tspan>”，</tspan></text>
+<text
+     transform="scale(0.96104112,1.0405382)"
+     id="text880"
+     x="695.3717"
+     y="506.46893"
+     style="font-size:11.53249359px;line-height:0%"><tspan
+       x="695.3717"
+       y="506.46893"
+       class="ohe-st6 ohe-st7"
+       id="tspan878"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.29874039px;font-family:Roboto-Regular;-inkscape-font-specification:Roboto-Regular">0 表示所有其他街道。</tspan></text>
+</svg>

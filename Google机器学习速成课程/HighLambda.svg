@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 183.44444 129.82222"
+   height="129.82222mm"
+   width="183.44444mm">
+  <desc>模型权重的平均值为 0 且权重呈正态分布的直方图。</desc>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-103.31349,-168.5889)"
+     id="layer1">
+    <image
+       style=""
+       width="183.44444"
+       height="129.82222"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 /OfEBmft/wAAAABJRU5ErkJggg== "
+       id="image72"
+       x="103.31349"
+       y="168.5889" />
+    <text
+       id="text77"
+       y="174.81136"
+       x="192.39764"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="174.81136"
+         x="192.39764"
+         id="tspan75">模型权重分布</tspan></text>
+    <text
+       id="text81"
+       y="290.85159"
+       x="195.53345"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="290.85159"
+         x="195.53345"
+         id="tspan79">权重值</tspan></text>
+    <text
+       transform="scale(-1)"
+       id="text85"
+       y="-374.64935"
+       x="8.6551847"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:vertical-lr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="writing-mode:vertical-lr;stroke-width:0.26458332"
+         y="-246.69495"
+         x="-119.29923"
+         id="tspan83" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-242.78731"
+       y="120.12642"
+       id="text17"
+       transform="rotate(-90)"><tspan
+         id="tspan15"
+         x="-242.78731"
+         y="120.12642"
+         style="stroke-width:0.26458332">权重频率</tspan></text>
+  </g>
+</svg>
