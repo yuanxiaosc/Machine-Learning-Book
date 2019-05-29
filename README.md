@@ -6,9 +6,9 @@
 |名称|说明|
 |-|-|
 |完整版[Google机器学习速成课程.md](Google机器学习速成课程.md)||
-|[谷歌机器学习速成课程-配套TensorFlow代码](Google机器学习速成课程Code)||
+|[谷歌机器学习速成课程-配套TensorFlow代码](Google机器学习速成课程Code)|加利福利亚放假回归问题+分类问题+手写字体识别问题|
 |[Google机器学习速成课程.pdf](Google机器学习速成课程.pdf)||
-|[机器学习术语表（PDF）](Google机器学习速成课程相关PDF资源/机器学习术）|[机器学习术语表（网页版）](https://developers.google.com/machine-learning/glossary/)|
+|[机器学习术语表（PDF）](Google机器学习速成课程相关PDF资源/机器学习术语表GoogleDevelopers.pdf)|[机器学习术语表（网页版）](https://developers.google.com/machine-learning/glossary/)|
 |[机器学习规则（PDF）](Google机器学习速成课程相关PDF资源/机器学习规则GoogleDevelopers.pdf)|[机器学习规则（网页版）](https://developers.google.com/machine-learning/guides/rules-of-ml/)|
 
 ## 谷歌机器学习速成课程的目录
