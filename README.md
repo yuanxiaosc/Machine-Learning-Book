@@ -1,20 +1,19 @@
 # Google-Machine-learning-crash-course
 这个资源涵盖了谷歌机器学习速成课程（中文版）的所有内容，主要是为了方便国内机器学习爱好者学习这门课程。内容主要以加利福尼亚房价预测为线索，讲解了使用机器学习和深度学习解决现实世界问题的一般方法。学习了 [Google机器学习速成课程.md](Google机器学习速成课程.md) 可以算作学习了机器学习功夫的招式。
 
-若要练机器学习功夫的内功可以学习 [机器学习中的常识性问题 (最新网页版)](https://yuanxiaosc.github.io/categories/机器学习中的常识性问题/) | [机器学习中的常识性问题 _ 望江人工智库(PDF下载版)](机器学习中的常识性问题 _ 望江人工智库.pdf)
+若要练机器学习功夫的内功可以学习 [机器学习中的常识性问题 (最新网页版)](https://yuanxiaosc.github.io/2019/08/16/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E5%B8%B8%E8%AF%86%E6%80%A7%E9%97%AE%E9%A2%98/) ， 该文系统性总结了机器学习基础知识。
 
 比如你了解机器学习中常见的二分类问题评价指标：混淆矩阵、准确率、精确率、召回率、敏感性、特异性、AUC、ROC以及它们之间的关系吗？（答案见文末）
 
 
 ## 谷歌机器学习速成课程资源表
 
-|名称|说明|
-|-|-|
-|完整版[Google机器学习速成课程.md](Google机器学习速成课程.md)||
-|[谷歌机器学习速成课程-配套TensorFlow代码](Google机器学习速成课程Code)|加利福利亚房价预测问题（回归问题）+分类问题+手写字体识别问题|
-|[Google机器学习速成课程.pdf](Google机器学习速成课程.pdf)||
-|[机器学习术语表（PDF）](Google机器学习速成课程相关PDF资源/机器学习术语表GoogleDevelopers.pdf)|[机器学习术语表（网页版）](https://developers.google.com/machine-learning/glossary/)|
-|[机器学习规则（PDF）](Google机器学习速成课程相关PDF资源/机器学习规则GoogleDevelopers.pdf)|[机器学习规则（网页版）](https://developers.google.com/machine-learning/guides/rules-of-ml/)|
+|标签|名称|说明|
+|-|-|-|
+|练招式|完整版[Google机器学习速成课程.md](Google机器学习速成课程.md) or [Google机器学习速成课程.pdf](Google机器学习速成课程.pdf) and [谷歌机器学习速成课程-配套TensorFlow代码](Google机器学习速成课程Code)|系统性简单入门机器学习。解决：加利福利亚房价预测问题（回归问题）+分类问题+手写字体识别问题|
+|口诀|[机器学习术语表（PDF）](Google机器学习速成课程相关PDF资源/机器学习术语表GoogleDevelopers.pdf) or [机器学习术语表（网页版）]( https://developers.google.com/machine-learning/glossary/ ) ||
+|心得|[机器学习规则（PDF）](Google机器学习速成课程相关PDF资源/机器学习规则GoogleDevelopers.pdf) or [机器学习规则（网页版）]( https://developers.google.com/machine-learning/guides/rules-of-ml/ ) ||
+|练内功|[机器学习中的常识性问题（PDF）](机器学习中的常识性问题_望江人工智库.pdf) or [机器学习中的常识性问题 (最新网页版)](https://yuanxiaosc.github.io/2019/08/16/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E5%B8%B8%E8%AF%86%E6%80%A7%E9%97%AE%E9%A2%98/)| 系统性深入学习机器学习。机器学习中的常识性问题定义：作为一名合格的机器学习从业人员必须理解的机器学习领域的常识性问题。|
 
 
 ## 谷歌机器学习速成课程的目录
@@ -29,7 +28,7 @@
 ## 学习进阶 练内功
 机器学习中的常识性问题定义：作为一名合格的机器学习从业人员必须理解的机器学习领域的常识性问题。
 
-点击开始学习 [机器学习中的常识性问题](https://yuanxiaosc.github.io/categories/机器学习中的常识性问题/)
+点击开始学习 [机器学习中的常识性问题](https://yuanxiaosc.github.io/)
 
 机器学习中常见的二分类问题评价指标：混淆矩阵、准确率、精确率、召回率、敏感性、特异性、AUC、ROC以及它们之间的关系吗？
 
@@ -37,5 +36,3 @@
 
 ![](混淆矩阵和12率公式.png)
 ![](二分类评价指标表格.png)
-
-
